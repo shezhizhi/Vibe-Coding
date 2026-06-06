@@ -1,0 +1,4 @@
+interface:
+  display_name: "咪蒙写作蒸馏"
+  short_description: "把高情绪公众号长文写法抽象成可复用结构，不模仿原句。"
+  default_prompt: "请使用咪蒙写作蒸馏 Skill，帮我把这个选题写成一篇原创公众号长文。"
